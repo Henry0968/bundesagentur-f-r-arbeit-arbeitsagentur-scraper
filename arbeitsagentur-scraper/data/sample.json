@@ -1,0 +1,13 @@
+[
+    {
+        "employerName": "Company Name",
+        "contractDuration": "Permanent",
+        "jobType": "Full-time",
+        "location": "Berlin, Germany",
+        "salaryNote": "Negotiable",
+        "descriptionText": "Job description here.",
+        "title": "Software Engineer",
+        "employerAddress": "Address here",
+        "externalURL": "https://example.com/job"
+    }
+]
